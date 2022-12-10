@@ -25,6 +25,8 @@
 /* Begin PBXFileReference section */
 		BE68122928D44FD800CA47F7 /* 6122_LAB_1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 6122_LAB_1; sourceTree = BUILT_PRODUCTS_DIR; };
 		BE68122C28D44FD800CA47F7 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		BE68123328D4504900CA47F7 /* numberGridPaths.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = numberGridPaths.cpp; sourceTree = "<group>"; };
+		BE75D85F28E1DEB900705098 /* NumberPaths.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = NumberPaths.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,8 @@
 			isa = PBXGroup;
 			children = (
 				BE68122C28D44FD800CA47F7 /* main.cpp */,
+				BE68123328D4504900CA47F7 /* numberGridPaths.cpp */,
+				BE75D85F28E1DEB900705098 /* NumberPaths.txt */,
 			);
 			path = 6122_LAB_1;
 			sourceTree = "<group>";
